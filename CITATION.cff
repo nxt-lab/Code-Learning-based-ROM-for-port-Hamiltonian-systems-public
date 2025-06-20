@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nguyen"
+  given-names: "Thanh Binh"
+  orcid: ""
+- family-names: "Nghiem"
+  given-names: "Truong X."
+  orcid: "https://orcid.org/0000-0003-4841-3800"
+title: "Structure- and Stability-Preserving Learning-based Reduced Ordered Modeling (ROM) of Port-Hamiltonian systems"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-06-20
+url: "https://github.com/nxt-lab/Code-Learning-based-ROM-for-port-Hamiltonian-systems-public"
